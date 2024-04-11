@@ -1,23 +1,93 @@
-# Python-Beginner
-This repo has the collection of my beginner Python learning
-
-The contents in beginner Python include:
-1.Basics
-.Input .Output .Comments .Variables .Data-Types .Types Casting .Operators .Conditionals .Short Hand Conditionals .Loops
-
-2.Data Structures
-.String .List .Tuples .Dictionary .Set
-
-3.Functions and Modules
-.User defined functions .Lambda .Map .Filter .Reduce .Scope of variable .Arbitrary Arguments .Recursion
-.datetie .math .random
-
-4.File Handling
-
-5.Exception handling
-
-6.OOPS
-.class .object .constructor .attributes .methods .decorators .access modifier .Abstraction .Encapsulation .Inheritance .Polymorphism(operator overlaoding,method overloading,method overriding)
-
-7.Basic Practice problems
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Python-Beginner</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Python-Beginner</h1>
+    <p>This repo has the collection of my beginner Python learning.</p>
+    <h2>The contents in beginner Python include:</h2>
+    <ol>
+        <li>
+            <h3>Basics</h3>
+            <ul>
+                <li>Input</li>
+                <li>Output</li>
+                <li>Comments</li>
+                <li>Variables</li>
+                <li>Data-Types</li>
+                <li>Types Casting</li>
+                <li>Operators</li>
+                <li>Conditionals</li>
+                <li>Short Hand Conditionals</li>
+                <li>Loops</li>
+            </ul>
+        </li>
+        <li>
+            <h3>Data Structures</h3>
+            <ul>
+                <li>String</li>
+                <li>List</li>
+                <li>Tuples</li>
+                <li>Dictionary</li>
+                <li>Set</li>
+            </ul>
+        </li>
+        <li>
+            <h3>Functions and Modules</h3>
+            <ul>
+                <li>User defined functions</li>
+                <li>Lambda</li>
+                <li>Map</li>
+                <li>Filter</li>
+                <li>Reduce</li>
+                <li>Scope of variable</li>
+                <li>Arbitrary Arguments</li>
+                <li>Recursion</li>
+                <li>datetie</li>
+                <li>math</li>
+                <li>random</li>
+            </ul>
+        </li>
+        <li><h3>File Handling</h3></li>
+        <li><h3>Exception handling</h3></li>
+        <li>
+            <h3>OOPS</h3>
+            <ul>
+                <li>class</li>
+                <li>object</li>
+                <li>constructor</li>
+                <li>attributes</li>
+                <li>methods</li>
+                <li>decorators</li>
+                <li>access modifier</li>
+                <li>Abstraction</li>
+                <li>Encapsulation</li>
+                <li>Inheritance</li>
+                <li>Polymorphism (operator overloading, method overloading, method overriding)</li>
+            </ul>
+        </li>
+        <li><h3>Basic Practice problems</h3></li>
+    </ol>
+</body>
+</html>
