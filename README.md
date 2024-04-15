@@ -69,6 +69,26 @@
             </ul>
         </li>
         <li><h3>Basic Practice problems</h3></li>
+        <h4>Lists</h4>
+                <li>Swap first and last elements of a list</li>
+                <li>Clone a list</li>
+                <li>Find unique elements in a list</li>
+                <li>Strongest neighbor of any given element</li>
+                <li>Ways to find length of a list</li>
+                <li>Ways to check if element exists in a list</li>
+                <li>Remove empty tuples from a list</li>
+                <li>Find duplicate elements in a list</li>
+                <li>Reverse row sort in list of list</li>
+                <li>Pair elements with rear elements in matrix rows</li>
+                <li>Check if list has three consecutive common numbers</li>
+                <li>Find all possible combinations from 3 digits</li>
+                <li>Sort a list according to column using lambda</li>
+                <li>Retain records with n occurences of k</li>
+                <li>Replace index elements with elements in other list</li>
+                <li>Remove consecutive k records</li>
+                <li>Remove all the occurences of a number from list</li>
+                <li>Get all the unique combinations of two lists</li>
+        <h4>Strings</h4>
     </ol>
 </body>
 </html>
