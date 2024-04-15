@@ -69,7 +69,8 @@
             </ul>
         </li>
         <li><h3>Basic Practice problems</h3></li>
-        <h4>Lists</h4>
+        <h2>Lists</h2>
+                <ul>
                 <li>Swap first and last elements of a list</li>
                 <li>Clone a list</li>
                 <li>Find unique elements in a list</li>
@@ -88,7 +89,8 @@
                 <li>Remove consecutive k records</li>
                 <li>Remove all the occurences of a number from list</li>
                 <li>Get all the unique combinations of two lists</li>
-        <h4>Strings</h4>
+                </ul>
+        <h2>Strings</h2>
     </ol>
 </body>
 </html>
