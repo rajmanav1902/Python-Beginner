@@ -74,6 +74,7 @@
                 <li>Swap first and last elements of a list</li>
                 <li>Clone a list</li>
                 <li>Find unique elements in a list</li>
+                <li>Frequency of elements in a list</li>
                 <li>Strongest neighbor of any given element</li>
                 <li>Ways to find length of a list</li>
                 <li>Ways to check if element exists in a list</li>
